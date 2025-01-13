@@ -273,7 +273,7 @@
 		"ignore": "^7.0.0"
 	},
 	"devDependencies": {
-		"@eslint/js": "^9.17.0",
+		"@eslint/js": "^9.18.0",
 		"@stylistic/eslint-plugin": "^2.12.1",
 		"@types/glob": "^8.1.0",
 		"@types/mocha": "^10.0.10",
